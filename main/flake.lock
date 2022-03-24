@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-zws-main": "src-zws-main"
+        "src-cli-main": "src-cli-main"
       }
     },
-    "src-zws-main": {
+    "src-cli-main": {
       "flake": false,
       "locked": {
         "lastModified": 1647568351,
