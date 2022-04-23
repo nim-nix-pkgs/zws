@@ -42,11 +42,11 @@
     "src-cli-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1648259868,
-        "narHash": "sha256-ff5ZyHplNPqZ8hxOddhkrUwRREwdsUB0kisk81MIf/s=",
+        "lastModified": 1650083465,
+        "narHash": "sha256-GzSCwJrCp+uTAqHyOibwqvvr7k+Ue27R+MJ38BJ5T2Y=",
         "owner": "zws-im",
         "repo": "cli",
-        "rev": "98ff221fe98027dba93ec629b8db3e5737454ea8",
+        "rev": "ab56af3b1028b4824e391102549625ed9a38f91a",
         "type": "github"
       },
       "original": {
