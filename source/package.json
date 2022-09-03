@@ -1,0 +1,18 @@
+{
+	"name": "@zws/cli",
+	"private": true,
+	"description": "A command line interface for ZWS instances",
+	"scripts": {
+		"deploy": "semantic-release",
+		"style": "prettier --check ."
+	},
+	"prettier": "@jonahsnider/prettier-config",
+	"devDependencies": {
+		"@jonahsnider/prettier-config": "1.1.2",
+		"@semantic-release/exec": "6.0.3",
+		"prettier": "2.7.1",
+		"semantic-release": "19.0.5",
+		"semantic-release-docker": "2.2.0"
+	},
+	"packageManager": "yarn@3.2.3"
+}
